@@ -217,7 +217,7 @@ $ git checkout Tugas-midProject
 Switched to branch 'Tugas-midProject'
 
 class@LAPTOP-AU6JMOMH MINGW64 ~/Documents/belajarGIT (Tugas-midProject)
-$ touch Tugas-git.midProject
+$ touch Tugas-midProject.txt
 
 class@LAPTOP-AU6JMOMH MINGW64 ~/Documents/belajarGIT (Tugas-midProject)
 $ notepad Tugas-midProject.txt
